@@ -73,6 +73,7 @@
 	border-bottom:5px solid #0C62A1;
 }
 .banner_img{
+	width:200px;
 	margin:-30px 0 0 80px;
 }
 /*===============new part====================*/
@@ -80,7 +81,7 @@
 
 }
 .join_head{
-	font-size:40px;
+	font-size:36px;
 	color:#302F2F;
 	margin:50px 0 20px 0;
 	font-family:'head_font';
@@ -341,9 +342,9 @@
 
 }
 .join_para{
-	font-size:20px;
+	font-size:16px;
 	color:#404040;
-	margin:20px 0 0 0;
+	margin:10px 0 0 0;
 	
 }
 .Priority_head{
